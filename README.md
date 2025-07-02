@@ -62,6 +62,6 @@ Créer une application mobile Flutter responsive et esthétique qui :
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-utilisateur/senegal_weather_app.git
+git clone https://github.com/Ibrahima-Ndao/senegal_weather_mobile_app.git
 cd senegal_weather_app
 ```

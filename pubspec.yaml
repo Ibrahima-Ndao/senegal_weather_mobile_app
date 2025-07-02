@@ -41,6 +41,7 @@ flutter:
   assets:
     - assets/images/senegal_flad.png
     - assets/images/weather_bg.jpg
+    - assets/images/senegal_map.png
     - assets/images/regions/dakar.jpg
     - assets/animations/
     - assets/svgs/
